@@ -43,7 +43,7 @@ about:
   license: Unlimited
   summary: Functions with example data for graphing, pruning, and mapping models from hierarchical
     clustering, and classification and regression trees.
-  license_family: MIT
+  license_family: OTHER
 
 extra:
   recipe-maintainers:

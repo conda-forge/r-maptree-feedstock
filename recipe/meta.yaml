@@ -15,7 +15,7 @@ source:
 build:
   noarch: generic
   merge_build_host: True  # [win]
-  number: 1001
+  number: 1002
   noarch: generic
   rpaths:
     - lib/R/lib/
@@ -43,7 +43,7 @@ about:
   license: Unlimited
   summary: Functions with example data for graphing, pruning, and mapping models from hierarchical
     clustering, and classification and regression trees.
-  license_family: MIT
+  license_family: OTHER
 
 extra:
   recipe-maintainers:

@@ -1,11 +1,11 @@
-About r-maptree
-===============
+About r-maptree-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-maptree-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=maptree
 
 Package license: Unlimited
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-maptree-feedstock/blob/main/LICENSE.txt)
 
 Summary: Functions with example data for graphing, pruning, and mapping models from hierarchical clustering, and classification and regression trees.
 
